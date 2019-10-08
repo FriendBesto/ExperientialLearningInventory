@@ -3,6 +3,9 @@
  *
  * NB: You'll need to change the path to the phpwebsite directory, and the path
  * to phpwebsite's config.php.
+ *
+ * Don't forget to rotate the log.
+ *
  */
 
 # Send enrollment reminder emails every Monday morning at 7am
